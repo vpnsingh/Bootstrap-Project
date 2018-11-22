@@ -1,0 +1,59 @@
+.container
+{
+	padding-right:15px;
+	padding-left:15px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+p{ color:black;}
+
+@media (min-width:768px) { 
+	p {
+		color:white;
+		}
+	}
+
+
+@media (min-width:992px) {
+	p {
+		color:white;
+		}
+	}
+	
+
+@media (min-width:1200px){
+	p {
+		color:white;
+		}
+	}
+	
+body
+{
+ background-color:silver;
+}
+	
+	@media (min-width:768px) { 
+	body { background-color:purple;}
+	}
+
+
+@media (min-width:992px) {
+	body {
+		background-color:red;}
+	}
+	
+
+@media (min-width:1200px){
+	body {
+		background-color:blue;}
+	}
+
+	
+	
+	
+	
+	
+
+	
+

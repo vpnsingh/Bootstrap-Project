@@ -1,0 +1,23 @@
+body
+{
+	background-color:#;
+}
+.jumbotron
+{
+	background-color:#B0BEC5;
+}
+.footer
+{
+	background-color:black;
+	position:relative;
+	margin-top:10px;
+	padding-bottom:10px;
+	bottom:0px;
+	color:white;
+	text-align:center;
+}
+.footer h4
+{
+	padding-top:10px;
+	
+	}
